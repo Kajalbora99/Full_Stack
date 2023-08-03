@@ -1,0 +1,20 @@
+h1,
+h2 {
+    color: green;
+}
+
+div>p {
+    color: brown;
+}
+
+ul>p {
+    font-size: x-small;
+}
+
+.box .list .done {
+    color: seagreen;
+}
+
+li {
+    color: blue;
+}

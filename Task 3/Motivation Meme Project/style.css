@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+
+div {
+    margin: auto;
+    width: 50%;
+    margin-left: 25%;
+}
+
+h1 {
+    color: white;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+.goalimg {
+    border: 5px solid white;
+    width: 100%;
+}
